@@ -1,0 +1,6 @@
+The URL below points to a Confluence page in the Team 8 space which serves
+as a parent page for notes for almost all of our meetings with the Papa 
+Johns team (taken by Luke Mullikin). 
+
+https://seniordesign.cs.uky.edu/confluence/display/S22Team8/Meeting+Notes
+
